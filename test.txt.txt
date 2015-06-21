@@ -2,4 +2,4 @@ hello
 
 yahoo first committed
 
-another lines added
+Removed this line text and added new text
